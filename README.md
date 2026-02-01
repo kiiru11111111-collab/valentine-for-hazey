@@ -8,8 +8,8 @@
 
 <section>
 <div class="card">
-<h1>Happy Valentine’s Day 💖</h1>
-<h2>To Hazey (aka Henry, aka Phone Hein Htet)</h2>
+<h1>Happy Valentine’s Day My Dearest Boyfriend 💖</h1>
+<h2>To My Beloved Hazey (aka Henry, aka Phone Hein Htet)</h2>
 <p>You make my days brighter, my laughs louder, and my heart fuller.</p>
 <div class="heart">❤️</div>
 </div>
